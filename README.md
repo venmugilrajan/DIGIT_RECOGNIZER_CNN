@@ -1,4 +1,3 @@
-Here’s a **ready-to-use, well-formatted `README.md`** for your GitHub project — with clear sections, markdown styling, and emojis to make it look professional 👇
 
 ---
 
