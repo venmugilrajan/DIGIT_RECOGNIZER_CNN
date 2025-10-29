@@ -131,10 +131,3 @@ This project is open-source and available under the **MIT License**.
 
 ⭐ **If you found this project helpful, please give it a star on GitHub!** ⭐
 
-```
-
----
-
-Would you like me to include a **preview image (screenshot of your Gradio app)** section too?  
-It looks great at the top of a GitHub README — I can show you how to add that next.
-```
