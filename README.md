@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # 🧠 Handwritten Digit Recognizer with Gradio
 
 This project provides a simple web interface using **Gradio** to recognize handwritten digits (**0–9**).  
